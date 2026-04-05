@@ -46,7 +46,7 @@ export default function AboutSection() {
             I&apos;m a senior technology and services leader with over 25 years of experience transforming enterprises through strategic cloud adoption, AI infrastructure innovation, and customer-centric solution engineering.
           </p>
           <p className="text-lg text-muted-foreground leading-relaxed mb-6">
-            Currently at Oracle, I lead presales for Cloud Systems across EMEA, driving $300M+ annual portfolios and enabling some of the world&apos;s largest organizations to modernize their infrastructure through AI and cloud computing.
+            Currently at Oracle, I lead presales for Cloud Systems across EMEA, influencing $300M+ annual portfolios and enabling some of the world&apos;s largest organizations to modernize their infrastructure through AI and cloud computing.
           </p>
           <p className="text-lg text-muted-foreground leading-relaxed">
             My approach combines deep technical expertise with business acumen—I excel at translating complex technology into compelling business outcomes, leading high-performing global teams, and building lasting customer relationships that drive mutual growth.
@@ -69,7 +69,7 @@ export default function AboutSection() {
             {
               icon: TrendingUp,
               label: '$300M+',
-              description: 'Annual Portfolio Management',
+              description: 'Annual Portfolio Influence',
             },
           ].map((stat, index) => {
             const Icon = stat.icon
