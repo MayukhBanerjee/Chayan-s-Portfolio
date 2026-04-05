@@ -1,0 +1,171 @@
+CHAYAN BANERJEE
+Director – Presales | Technical Support | Service Delivery
+
+Bangalore, India | +91 9739391674 | Chayan_banerjee@yahoo.com
+LinkedIn: linkedin.com/in/chayan-banerjee
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+EXECUTIVE SUMMARY
+
+Senior technology and services leader with 25+ years of experience across presales, 
+technical support, escalation management, and service delivery in large-scale enterprise 
+IT environments.
+
+Proven track record of leading global teams, managing strategic customer relationships, and 
+driving business outcomes across Cloud Infrastructure, Private AI solutioning, Oracle 
+Engineered Systems, and Enterprise Databases. Brings deep expertise in solution 
+engineering, customer support, escalation governance, and P&L ownership across India, 
+EMEA, ASEAN, and the US.
+
+Currently leading Oracle Cloud Systems Presales for EMEA, driving high-value enterprise 
+engagements and enabling revenue growth through strategic solutioning and customer alignment.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+CORE LEADERSHIP CAPABILITIES
+
+• Presales & Solution Engineering Leadership
+• Enterprise Customer Engagement & Executive Stakeholder Management
+• Technical Support & Escalation Governance
+• Service Delivery & P&L Ownership
+• Cloud & AI Infrastructure Strategy
+• Business Development & Revenue Growth Enablement
+• Cross-functional Collaboration (Sales, Product, Field Engineering)
+• Large Team Leadership (Multicultural, Multi-Geography)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+PROFESSIONAL EXPERIENCE
+
+ORACLE INDIA – June 2011 to Present
+
+Director – Presales (Solution Engineering) | Dec 2018 to Present
+• Led high-performing presales organization across India & Europe, supporting enterprise 
+  cloud and engineered systems business
+• Drive USD 300M+ annual Cloud Systems portfolio across EMEA region
+• Act as strategic bridge between Sales, Customers, and Product teams, accelerating deal 
+  closure and executive decision-making
+• Own end-to-end presales lifecycle: Architecture & solution design, RFP/RFI responses, 
+  TCO & business case modeling, Competitive positioning
+• Provide leadership on complex and high-risk deals, ensuring solution quality and customer 
+  confidence
+• Collaborate with executive leadership on go-to-market strategies and pipeline growth
+• Establish performance frameworks, metrics, and continuous improvement practices for 
+  presales excellence
+
+Senior Manager – Product Support | Jun 2014 to Dec 2018
+• Led global support teams across Exadata, Engineered Systems, Oracle Linux, OVM, and 
+  cloud platforms
+• Served as executive escalation leader for strategic global accounts, protecting USD 200M+ 
+  installed base
+• Improved customer satisfaction through structured feedback, service improvements, and 
+  operational excellence
+• Built and scaled multinational teams across India & Europe, driving capability development 
+  and performance
+• Enabled USD 25M+ business expansion via trusted customer relationships and collaboration 
+  with Sales
+• Influenced product roadmap through defect management, escalation insights, and engineering 
+  collaboration
+• Established follow-the-sun support model with partner ecosystem integration
+
+Customer Incident Manager | Jun 2011 to Jun 2014
+• Established global escalation governance framework for Engineered Systems
+• Led executive war rooms for critical customer incidents, ensuring rapid resolution and 
+  accountability
+• Built and scaled escalation management teams across EMEA & APAC
+• Delivered resolution for high-impact outages across banking, telecom, and public sector
+• Introduced proactive escalation prevention mechanisms and early-warning systems
+• Drove structured reporting on escalation trends, risks, and performance metrics
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+iGATE GLOBAL SOLUTIONS – Jan 2008 to Jun 2011
+
+Service Delivery Manager & Technical Lead
+• Managed USD 25M+ infrastructure services portfolio across APAC & EMEA
+• Owned end-to-end delivery including RFPs, SOWs, SLAs, and contract governance
+• Led large cross-functional teams across: Infrastructure, Databases, Middleware, Applications
+• Designed operational frameworks for incident, change, risk, and security management
+• Owned financial governance including P&L, cost optimization, and delivery efficiency
+• Applied ITIL best practices to strengthen service delivery maturity
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TATA CONSULTANCY SERVICES (TCS) – Nov 2000 to Jan 2008
+
+IT Analyst
+• Started career as UNIX System Administrator & Oracle DBA
+• Supported enterprise environments across production, staging, and development
+• Delivered infrastructure and virtualization support for global customers (UK & India)
+• Gained early expertise in VMware, Data Center Operations, and multi-OEM platforms
+• Built strong foundation in systems administration and IT service management
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TECHNICAL EXPERTISE
+
+Enterprise Databases
+• Oracle Database (RAC, Data Guard, ASM, Multitenant, AWR, AHF)
+• Oracle Enterprise Manager, GoldenGate, RMAN
+• Autonomous Database & cloud database services
+• Exposure to SQL Server & cross-platform ecosystems
+• AI-enabled databases (Oracle 23ai / 26ai)
+• Vector databases & semantic search architectures
+
+Cloud Infrastructure & AI
+• OCI Architect Associate & AI foundations certified
+• Public, Hybrid (Cloud@Customer), and Private Cloud architectures
+• GPU-based AI infrastructure and model training platforms
+• Business case development (TCO, ROI, cost optimization)
+• AI use cases including:
+  - Generative AI POCs
+  - Vectorization & LLM-based architectures
+  - Agent Factory, Agentic AI framework
+  - AI Services Container
+  - AI optimizer & Toolkit
+
+Engineered Systems & Data Protection
+• Oracle Exadata, ODA, ZDLRA, PCA
+• Cloud@Customer Systems
+• Ransomware protection & Isolated recovery environment
+• Backup & recovery architectures
+• Enterprise workload modernization & transformation
+
+Virtualization & OS
+• Oracle Linux, VMware, KVM, Hyper-V, Xen
+• Large-scale virtualization (5000+ VMs)
+• HA architecture, lifecycle management & performance optimization
+• Shell scripting & automation
+• Oracle APEX application oversight
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+EDUCATION & CERTIFICATIONS
+
+• Diploma in Electronics & Telecommunications Engineering
+• OCI Architect Associate
+• OCI AI Foundations Associate
+• OCI Foundations Associate
+• Exadata Certified Specialist
+• Oracle Database OCA (11g)
+• Oracle Autonomous DB OCS
+• ITIL Foundation
+• Oracle Cloud@Customer & PCA Foundation
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+CAREER HIGHLIGHTS
+
+• 20+ years of progressive leadership across top-tier IT organizations
+• Led global teams across India, Europe, and APAC
+• Managed $300M+ business portfolios and critical enterprise customers
+• Delivered high-impact presales, support, and service transformations
+• Strong blend of technology depth and business leadership
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+PROFESSIONAL STATEMENT
+
+Seeking senior leadership opportunities to drive customer success, business growth, and 
+innovation across presales, service delivery, and cloud/AI transformation domains.
