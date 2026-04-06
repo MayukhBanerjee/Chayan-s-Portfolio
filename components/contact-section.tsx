@@ -114,7 +114,7 @@ export default function ContactSection() {
           </Card>
           <Card className="p-6 text-center hover:shadow-lg transition-all duration-300 hover:scale-105">
             <div className="text-4xl font-bold text-primary mb-2">$300M+</div>
-            <p className="text-sm text-muted-foreground font-medium">Portfolio Managed</p>
+            <p className="text-sm text-muted-foreground font-medium">Portfolio Influenced</p>
             <p className="text-xs text-muted-foreground mt-2">Strategic deal closure and customer success</p>
           </Card>
           <Card className="p-6 text-center hover:shadow-lg transition-all duration-300 hover:scale-105">

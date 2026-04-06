@@ -179,7 +179,7 @@ export default function SkillsSection() {
             {
               title: 'Leadership Excellence',
               description:
-                'Proven track record leading global multicultural teams and managing $300M+ portfolios',
+                'Proven track record leading global multicultural teams and influencing $300M+ portfolios',
             },
             {
               title: 'Business Acumen',
