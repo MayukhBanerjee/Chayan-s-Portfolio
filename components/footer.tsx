@@ -25,7 +25,7 @@ export default function Footer() {
               <span className="text-sm">Email</span>
             </a>
             <a
-              href="https://linkedin.com/in/chayan-banerjee"
+              href="https://linkedin.com/in/chayan-banerjee-74951a18/"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 text-muted-foreground hover:text-primary transition-colors"
