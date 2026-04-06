@@ -18,7 +18,7 @@ const positions: Position[] = [
     title: 'Director – Presales (Solution Engineering)',
     period: 'Dec 2018 – Present',
     achievements: [
-      'Lead presales across India & Europe, driving USD 300M+ annual Cloud Systems portfolio',
+      'Lead presales across India & Europe, influencing USD 300M+ annual Cloud Systems portfolio',
       'Architect complex enterprise solutions, managing RFP/RFI responses and TCO modeling',
       'Lead strategic deals and provide executive escalation support for high-risk engagements',
       'Collaborate with product leadership on go-to-market strategies and pipeline growth',
@@ -52,7 +52,7 @@ const positions: Position[] = [
     title: 'Service Delivery Manager & Technical Lead',
     period: 'Jan 2008 – Jun 2011',
     achievements: [
-      'Managed USD 25M+ infrastructure services portfolio across APAC & EMEA',
+      'Managed USD 10M+ infrastructure services portfolio across APAC & EMEA',
       'Owned end-to-end delivery including RFPs, SOWs, SLAs, and contract governance',
       'Led cross-functional teams across infrastructure, databases, middleware, and applications',
       'Designed ITIL-based operational frameworks for incident, change, and risk management',
