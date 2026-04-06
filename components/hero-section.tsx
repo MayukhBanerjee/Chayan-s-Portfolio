@@ -24,7 +24,7 @@ export default function HeroSection() {
     <section className="min-h-screen flex flex-col items-center justify-center relative overflow-hidden pt-20 px-4 sm:px-6 lg:px-8">
       {/* Animated background gradient */}
       <div className="absolute inset-0 bg-gradient-to-br from-primary/5 via-background to-primary/5 -z-10" />
-      
+
       <div
         className={cn(
           'text-center space-y-8 max-w-3xl mx-auto transition-all duration-1000',
@@ -74,7 +74,7 @@ export default function HeroSection() {
             View Experience
             <ArrowDown className="ml-2 h-4 w-4 transition-transform group-hover:translate-y-1" />
           </Button>
-          <a href="/Chayan-Banerjee-Resume.pdf" download="Chayan-Banerjee-Resume.pdf">
+          <a href="/Chayan Banerjee.pdf" download="Chayan's Resume.pdf">
             <Button
               variant="outline"
               size="lg"
