@@ -32,7 +32,7 @@ const positions: Position[] = [
       'Led global support teams across Exadata, Engineered Systems, and cloud platforms',
       'Managed USD 200M+ installed base with executive escalation leadership',
       'Improved customer satisfaction through structured feedback and operational excellence',
-      'Enabled USD 25M+ business expansion via trusted customer relationships',
+      'Enabled USD 20M+ business expansion via trusted customer relationships',
       'Influenced product roadmap through defect management and engineering collaboration',
     ],
   },
